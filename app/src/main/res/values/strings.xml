@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">delliveryClient</string>
+
+        <string-array name="status_array">
+            <item>Ready to Deliver</item>
+            <item>Attempt Failed</item>
+            <item>Delivered</item>
+        </string-array>
+</resources>
